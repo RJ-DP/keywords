@@ -5,19 +5,20 @@ Computer scienceis the study of computers and computational systems. It encompas
 
 Key areas of computer science include:
 
-Algorithms and data structures: These are the fundamental building blocks of computer programs, defining how information is processed and stored.   
+• Algorithms and data structures: These are the fundamental building blocks of computer programs, defining how information is processed and stored.   
 
-Programming languages: These are tools used to communicate instructions to computers.   
+• Programming languages: These are tools used to communicate instructions to computers.   
 
-Software engineering: This involves the design, development, testing, and maintenance of software systems.   
+• Software engineering: This involves the design, development, testing, and maintenance of software systems.   
 
-Artificial intelligence: This focuses on creating intelligent agents that can reason, learn, and act autonomously.   
+• Artificial intelligence: This focuses on creating intelligent agents that can reason, learn, and act autonomously.   
 
-Computer networks: This deals with the design, implementation, and maintenance of computer networks.   
+• Computer networks: This deals with the design, implementation, and maintenance of computer networks.   
 
-Computer graphics: This involves the creation and manipulation of visual images on computers.   
+• Computer graphics: This involves the creation and manipulation of visual images on computers.   
 
-Human-computer interaction: This explores how people interact with computers and other technology.  
+• Human-computer interaction: This explores how people interact with computers and other technology.  
+
 
 What is computation?
 
@@ -25,19 +26,20 @@ Computation is the process of performing calculations or solving problems using 
 
 Key aspects of computation include:
 
-Input: The data that is processed.
+• Input: The data that is processed.
 
-Process: The series of steps or operations performed on the input data.
+• Process: The series of steps or operations performed on the input data.
 
-Output: The result of the computation.
+• Output: The result of the computation.
 
-CPU: General-purpose processor for executing instructions.
+- CPU: General-purpose processor for executing instructions.
 
-GPU: Specialized processor for graphics and visual effects.
+- GPU: Specialized processor for graphics and visual effects.
 
-NIC: Handles network communication.
+- NIC: Handles network communication.
 
-TPU: Specialized processor for machine learning.
+- TPU: Specialized processor for machine learning.
+
 
 System on a Chip (SoC)
 
@@ -50,4 +52,40 @@ Memory: This includes both main memory (RAM) and storage (e.g., flash memory).
 Peripherals: These are components that interact with the outside world, such as I/O interfaces (USB, Ethernet, etc.), sensors, and actuators.
 
 Interconnect: This is the network of connections that allows the various components to communicate with each other.
+
+
+Storage
+
+Primary Storage (Main Memory)
+
+•	Types:
+
+- RAM (Random Access Memory): Most common type, offering fast read/write access to data.
+
+- ROM (Read-Only Memory): Stores data permanently and cannot be modified.
+
+- Cache Memory: Small, high-speed memory used to store frequently accessed data for faster retrieval.
+
+
+Secondary Storage
+
+•	Purpose: Used for long-term data retention and has a much larger capacity compared to primary storage.
+
+•	Characteristics:
+	Non-volatile: Retains data even when the power is off.
+	Slower access speed compared to primary storage.
+	Larger capacity than primary storage.
+ 
+•	Types:
+
+-	Hard Disk Drives (HDDs): Traditional storage devices with magnetic disks for data storage.
+
+-	Solid-State Drives (SSDs): Use flash memory for faster data access and have no moving parts.
+
+-	Optical Discs (CDs, DVDs, Blu-rays): Use laser technology to read/write data on a reflective surface.
+
+>	Magnetic Tapes: Used for large-scale data archiving and backup.
+
+
+
 
