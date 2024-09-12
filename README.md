@@ -69,12 +69,11 @@ Primary Storage (Main Memory)
 
 Secondary Storage
 
-•	Purpose: Used for long-term data retention and has a much larger capacity compared to primary storage.
+ Used for long-term data retention and has a much larger capacity compared to primary storage.
 
-•	Characteristics:
-	Non-volatile: Retains data even when the power is off.
-	Slower access speed compared to primary storage.
-	Larger capacity than primary storage.
+These are non-volatile: Retains data even when the power is off.
+Slower access speed compared to primary storage.
+Larger capacity than primary storage.
  
 •	Types:
 
@@ -84,8 +83,43 @@ Secondary Storage
 
 -	Optical Discs (CDs, DVDs, Blu-rays): Use laser technology to read/write data on a reflective surface.
 
->	Magnetic Tapes: Used for large-scale data archiving and backup.
+-	Magnetic Tapes: Used for large-scale data archiving and backup.
 
 
+Network Types: 
 
 
+LAN and WAN
+
+ LAN 
+ (Local Area Network) 
+A network that connects computers and other devices within a limited geographic area, typically a single building or campus.
+
+Characteristics:
+
+Small physical area.
+
+High data transfer rates.
+
+Managed by a single organization.
+
+Examples: Home networks, office networks, school networks.
+
+WAN
+(Wide Area Network)
+ A telecommunications network that extends over a large geographic area, often spanning cities, countries, or even continents.
+
+Characteristics:
+
+Large physical area.
+
+Lower data transfer rates compared to LANs.
+
+Managed by multiple organizations. 
+
+Examples: The internet, corporate networks connecting multiple offices.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+OPERATING SYSTEM(OS)
+
+An operating system (OS) is a type of system software that manages computer hardware, software resources, and provides common services for computer programs. It serves as an intermediary between a computer's users and its hardware, enabling them to interact with the machine through a user interface. 
