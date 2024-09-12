@@ -18,7 +18,7 @@ Key areas of computer science include:
 • Computer graphics: This involves the creation and manipulation of visual images on computers.   
 
 • Human-computer interaction: This explores how people interact with computers and other technology.  
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 What is computation?
 
@@ -39,7 +39,7 @@ Key aspects of computation include:
 - NIC: Handles network communication.
 
 - TPU: Specialized processor for machine learning.
-
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 System on a Chip (SoC)
 
@@ -52,13 +52,13 @@ Memory: This includes both main memory (RAM) and storage (e.g., flash memory).
 Peripherals: These are components that interact with the outside world, such as I/O interfaces (USB, Ethernet, etc.), sensors, and actuators.
 
 Interconnect: This is the network of connections that allows the various components to communicate with each other.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+STORAGE
 
-Storage
-
-Primary Storage (Main Memory)
-
-•	Types:
+Primary Storage (Main Memory) 
+ 
+ • Types:
 
 - RAM (Random Access Memory): Most common type, offering fast read/write access to data.
 
@@ -84,9 +84,11 @@ Larger capacity than primary storage.
 -	Optical Discs (CDs, DVDs, Blu-rays): Use laser technology to read/write data on a reflective surface.
 
 -	Magnetic Tapes: Used for large-scale data archiving and backup.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+NETWORK
 
-Network Types: 
+•Types: 
 
 
 LAN and WAN
@@ -123,3 +125,31 @@ ________________________________________________________________________________
 OPERATING SYSTEM(OS)
 
 An operating system (OS) is a type of system software that manages computer hardware, software resources, and provides common services for computer programs. It serves as an intermediary between a computer's users and its hardware, enabling them to interact with the machine through a user interface. 
+
+
+Commonly Used Operating Systems:
+
+Windows: Developed by Microsoft, Windows is the most widely used desktop operating system, known for its user-friendly interface and extensive software compatibility.   
+
+macOS: Developed by Apple for its Macintosh computers, macOS is renowned for its elegant design, seamless integration with Apple hardware, and robust security features.
+
+Linux: An open-source operating system, Linux is highly customizable and versatile, running on a wide range of hardware from servers to embedded devices. It is known for its stability, security, and performance. There are two main families of Linux distributions:
+
+Debian: A popular distribution based on the Debian Project, known for its stability and community support. Debian includes Ubuntu, a widely used desktop and server distribution.
+Red Hat Enterprise Linux (RHEL): A commercial distribution developed by Red Hat, known for its enterprise-grade features, reliability, and security. RHEL includes CentOS, a community-supported version of RHEL, Oracle Linux, Fedora, and Red Hat.
+Commonly Used Operating Systems:
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
