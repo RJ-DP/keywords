@@ -26,5 +26,28 @@ Computation is the process of performing calculations or solving problems using 
 Key aspects of computation include:
 
 Input: The data that is processed.
+
 Process: The series of steps or operations performed on the input data.
+
 Output: The result of the computation.
+
+CPU: General-purpose processor for executing instructions.
+
+GPU: Specialized processor for graphics and visual effects.
+
+NIC: Handles network communication.
+
+TPU: Specialized processor for machine learning.
+
+System on a Chip (SoC)
+
+A System on a Chip (SoC) is an integrated circuit (IC) that integrates multiple components of an electronic system, typically including:
+
+Processor cores: These can be general-purpose CPUs, specialized processors (like GPUs or DSPs), or a combination.
+
+Memory: This includes both main memory (RAM) and storage (e.g., flash memory).
+
+Peripherals: These are components that interact with the outside world, such as I/O interfaces (USB, Ethernet, etc.), sensors, and actuators.
+
+Interconnect: This is the network of connections that allows the various components to communicate with each other.
+
