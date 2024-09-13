@@ -197,20 +197,6 @@ Public Cloud: Services provided by third-party providers like Amazon Web Service
 Private Cloud: Dedicated cloud infrastructure for a single organization, often hosted on-premises or in a data center.
 
 Hybrid Cloud: A combination of public and private clouds, allowing organizations to leverage the benefits of both.
-
-
-Common Use Cases:
-
-
-Data Storage and Backup: Storing and protecting data in a secure and scalable environment.
-
-Application Development and Deployment: Building and running applications without managing underlying infrastructure.
-
-Big Data Analytics: Processing and analyzing large datasets for insights and trends.
-
-Artificial Intelligence and Machine Learning: Training and deploying AI models in the cloud.
-
-Remote Work and Collaboration: Enabling teams to work together from anywhere.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 BARE METAL SYSTEM
@@ -228,15 +214,6 @@ Hardware Customization: Bare metal systems can be tailored to specific hardware 
 Security: Direct control over hardware resources can enhance security by reducing the attack surface.
 
 Complexity: Managing bare metal systems requires in-depth technical expertise and can be more time-consuming compared to managed services.
-
-
-Common Use Cases:
-
-High-Performance Computing (HPC): Scientific simulations, data analysis, and machine learning often benefit from the raw power and flexibility of bare metal systems.
-
-Real-time Applications: Systems that require low latency and deterministic performance, such as financial trading platforms or industrial control systems.
-
-Dedicated Servers: Organizations that need full control over their server environment for specific workloads or compliance requirements.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 COMPLEX INSTRCTION SET COMPUTER (CISC)
@@ -252,12 +229,43 @@ Multiple Addressing Modes: CISC often supports a variety of addressing modes, al
 Larger Opcodes: CISC instructions typically have larger opcodes to accommodate the complexity of the instructions.
 
 Hardware-Assisted Instruction Decoding: CISC processors often use hardware-assisted instruction decoding to handle the complexity of instruction decoding.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+REDUCED INSTRUCTION SET OF COMPUTERS (RISC)
 
+A reduced instruction set computer (RISC) is a type of microprocessor that uses a simplified instruction set compared to complex instruction set computers (CISC).
 
+Key Characteristics:
 
+Simplified Instruction Set: RISC processors use a smaller number of instructions, each of which is typically simpler and faster to execute.
 
+Pipeline Architecture: RISC processors often employ pipelining, where multiple instructions are processed simultaneously in different stages, improving performance.
 
+Load-Store Architecture: RISC architectures typically limit arithmetic operations to data stored in registers, reducing the complexity of memory access.
 
+Hardwired Control Unit: RISC processors often use hardwired control units, which are more efficient and faster than microprogrammed control units found in CISC architectures.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+APPLICATION SPECIFIC INTEGRATED CIRCUIT (ASIC)
+
+ASICs are integrated circuits designed for a specific application. Unlike general-purpose microprocessors, ASICs are tailored to perform a particular set of functions efficiently and cost-effectively.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+VIRTUAL MACHINE
+Virtual Machines are software environments that simulate a physical computer. They allow multiple operating systems to run concurrently on a single physical machine, isolating them from each other and providing a secure, flexible, and efficient computing environment.
+
+How Virtual Machines Work:
+
+Hypervisor: A hypervisor, also known as a virtual machine monitor, manages the allocation of resources (CPU, memory, storage, network) to each virtual machine.
+
+Guest Operating Systems: Each virtual machine runs its own guest operating system, which is unaware that it's running on a virtualized environment.
+
+Resource Allocation: The hypervisor allocates resources to each guest OS based on predefined policies, ensuring fair sharing and preventing one VM from impacting the performance of others.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+KERNEL
+
+The kernel is the core component of an operating system (OS) that manages the interaction between hardware and software. It acts as a bridge, translating the requests from applications into instructions that the computer's hardware can understand.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
