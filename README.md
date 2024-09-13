@@ -337,8 +337,19 @@ An API is a set of rules and protocols that enable many software programs to com
 - Building microservices architectures: Breaking down a large application into smaller, independent services that communicate through APIs.
 
 - Creating APIs for other developers to use: For example, providing an API for a mapping service or weather data.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+OSI Model: 7 Layers of Networking
 
+The OSI model is a framework that standardizes communication functions. It consists of 7 layers, divided into hardware layers and software layers:
+
+- Physical Layer: Manages physical connections between devices, transmitting raw data.
+- Data Link Layer: Ensures data transfer within the same network using MAC addresses.
+- Network Layer: Routes data between networks using IP addresses.
+- Transport Layer: The "heart" of OSI, ensures reliable data delivery with protocols like TCP and UDP.
+- Session Layer: Manages communication sessions between devices.
+- Presentation Layer: Translates data formats and handles encryption and compression.
+- Application Layer: Interacts with the user through applications like web browsers and email.
 
 
 
