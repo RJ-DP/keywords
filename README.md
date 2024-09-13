@@ -286,7 +286,7 @@ Benefits of Virtual Machines:
 
 - Cost-effective: Reduce hardware costs and energy consumption.
 
-Uses:
+Applications:
 
 - Server virtualization: Consolidate multiple servers onto fewer physical machines.
 
