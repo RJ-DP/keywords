@@ -352,7 +352,6 @@ A web application's backend is the server-side component that manages data stora
 - Frameworks: Django, Ruby, Spring Boot and Laravel.
 
 
-
 API (Application Program Interface)
 
 An API is a set of rules and protocols that enable many software programs to communicate with one another. It connects the frontend and backend, allowing data and functionality to be exchanged. APIs can be used for many applications, including: 
@@ -391,13 +390,13 @@ Cyber Threats:
 
 - Malware: Malicious software such as viruses, worms, trojans, ransomware, and spyware.
 
-- Phishing: Attempts to trick individuals into revealing personal or sensitive information.
+- Data Breaches: Unauthorized access to sensitive data. 
 
-- Social Engineering: Manipulating people to perform actions or disclose confidential information.
+- Phishing: Attempts to trick individuals into revealing personal or sensitive information.
 
 - Denial-of-Service (DoS) Attacks: Overwhelming a system or network with traffic to render it unavailable.
 
-- Data Breaches: Unauthorized access to sensitive data.
+- Social Engineering: Manipulating people to perform actions or disclose confidential information. 
 
  Practices for cybersecurity:
 
@@ -410,8 +409,6 @@ Cyber Threats:
 - Firewall: Safeguard your network against unauthorized entry.
 
 - Backup: Make sure to back up your important data on a regular basis to avoid losing it in the event of a cyberattack.
-
-- Plan for responding to and recovering from cyberattacks: Create an incident response plan.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
