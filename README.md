@@ -347,9 +347,10 @@ A web application's backend is the server-side component that manages data stora
 
 - Databases: MySQL, PostgreSQL, MongoDB, and Oracle.
 
+- Cloud platforms: AWS, Azure, and GCP
+
 - Frameworks: Django, Ruby, Spring Boot and Laravel.
 
-- Cloud platforms: AWS, Azure, and GCP
 
 
 API (Application Program Interface)
@@ -386,7 +387,7 @@ CYBERSECURITY
 
 Cybersecurity involves safeguarding computer systems, networks, and data against cyberattacks. It encompasses a blend of technologies, procedures, and rules created to stop, identify, and address cyber dangers.
 
-Common Cyber Threats:
+Cyber Threats:
 
 - Malware: Malicious software such as viruses, worms, trojans, ransomware, and spyware.
 
@@ -398,9 +399,9 @@ Common Cyber Threats:
 
 - Data Breaches: Unauthorized access to sensitive data.
 
- Best practices for cybersecurity:
+ Practices for cybersecurity:
 
-- Robust passwords: Utilize intricate, one-of-a-kind passwords and activate two-factor authentication (2FA) whenever you can.
+- Strong passwords: Utilize intricate, one-of-a-kind passwords and activate two-factor authentication (2FA) whenever you can.
 
 - Frequent Updates: Ensure your software and operating systems are always current with the newest security patches.
 
@@ -408,9 +409,7 @@ Common Cyber Threats:
 
 - Firewall: Safeguard your network against unauthorized entry.
 
-- Make sure to back up your important data on a regular basis to avoid losing it in the event of a cyberattack.
-
-- Employee Training: Teach employees cybersecurity best practices to avoid social engineering attacks.
+- Backup: Make sure to back up your important data on a regular basis to avoid losing it in the event of a cyberattack.
 
 - Plan for responding to and recovering from cyberattacks: Create an incident response plan.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
