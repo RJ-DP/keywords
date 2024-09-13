@@ -103,11 +103,11 @@ LAN and WAN
 
 Characteristics:
 
-Small physical area.
+- Small physical area.
 
-High data transfer rates.
+- High data transfer rates.
 
-Managed by a single organization.
+- Managed by a single organization.
 
 Examples: Home networks, office networks, school networks.
 
@@ -261,33 +261,40 @@ Virtual Machines are software environments that simulate a physical computer. Th
 
 Components:
 
-- Hypervisor: The software layer that enables virtualization. It manages the hardware resources (CPU, memory, storage) and allows multiple virtual machines to run on a single physical host.
+- Hypervisor: The software responsible for overseeing the virtual machines. It assigns CPU, memory, and storage resources to individual VMs.
 
- There are two types:
-   - Type 1 (Bare Metal): Runs directly on the host's hardware (e.g., VMware ESXi, Microsoft Hyper-V).
-   - Type 2 (Hosted): Runs on an operating system (e.g., VirtualBox, VMware Workstation).
+- Guest operating system: The OS operating inside the virtual machine. It may vary from the operating system of the host.
 
-- Virtual Disk: VMs use virtual disk files (e.g., VHD, VMDK) that act like hard drives.
+- Host OS: The OS that operates on the actual hardware. It offers the platform for the hypervisor and virtual machines.
 
-- Virtual Network Interface: VMs can have virtual network cards to communicate with other VMs or the external network.
 
-- 
-A Virtual Machine (VM) is a software-based emulation of a physical computer. It runs an operating system (OS) and applications just like a physical machine, but it's isolated from the actual hardware. Here are the key aspects of virtual machines:
+ Types of Virtual Machines:
 
- Isolation:
+- Type 1 Hypervisor (Bare-Metal): Runs directly on the hardware without an underlying operating system. Examples include VMware ESXi and KVM.
 
-- Each VM is independent of the others, meaning that errors or issues in one VM don't affect others on the same physical machine.
+- Type 2 Hypervisor (Hosted): Runs as an application on top of a host operating system. Examples include VirtualBox and VMware Workstation.
 
-- VMs can have different operating systems, configurations, and applications.
+Benefits of Virtual Machines:
+
+- Flexibility: Run multiple operating systems on a single physical machine.
+
+- Isolation: Protect applications from each other and the host system.
+
+- Efficiency: Consolidate multiple workloads onto fewer physical machines.
+
+- Portability: Move VMs between different hardware environments.
+
+- Cost-effective: Reduce hardware costs and energy consumption.
 
 Uses:
 
-- Testing and Development: Developers use VMs to test applications in different environments without needing multiple physical machines.
+- Server virtualization: Consolidate multiple servers onto fewer physical machines.
 
-- Server Consolidation: Organizations use VMs to run multiple server applications on fewer physical machines, reducing hardware costs.
+- Desktop virtualization: Deliver virtual desktops to users, providing flexibility and centralized management.
 
-- Cloud Computing: Cloud providers like AWS, Azure, and Google Cloud use VMs to offer scalable infrastructure.
+- Cloud computing: Provide scalable and on-demand computing resources.
 
+- Testing and development: Create isolated environments for testing applications.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 KERNEL
