@@ -424,14 +424,14 @@ Types:
 
 Applications:
 
-- Machine Learning: Algorithms that allow computers to learn from data and improve their performance over time.
+- Machine Learning
 
-- Deep Learning: A subset of machine learning that uses artificial neural networks with multiple layers to analyze complex patterns.
+- Deep Learning
 
-- Natural Language Processing (NLP): Enables computers to understand and interact with human language.
+- Natural Language Processing (NLP)
 
-- Computer Vision: Allows computers to interpret and understand visual information.
+- Computer Vision
 
-- Robotics: The design and construction of robots capable of performing tasks autonomously.
+- Robotics
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
