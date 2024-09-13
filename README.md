@@ -261,11 +261,72 @@ Hypervisor: A hypervisor, also known as a virtual machine monitor, manages the a
 Guest Operating Systems: Each virtual machine runs its own guest operating system, which is unaware that it's running on a virtualized environment.
 
 Resource Allocation: The hypervisor allocates resources to each guest OS based on predefined policies, ensuring fair sharing and preventing one VM from impacting the performance of others.
+
+Types of Virtualization:
+
+Type 1 Hypervisor: Runs directly on the hardware, providing optimal performance but requiring specialized hardware or software. Examples: VMware ESXi, Microsoft Hyper-V.
+
+Type 2 Hypervisor: Runs as an application on top of a host operating system. This is more common for personal use or smaller-scale deployments. Examples: VirtualBox, VMware Workstation.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 KERNEL
 
 The kernel is the core component of an operating system (OS) that manages the interaction between hardware and software. It acts as a bridge, translating the requests from applications into instructions that the computer's hardware can understand.
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+IP ADDRESS (Internet Protocol address)
+
+An IP address is a numerical label assigned to each device connected to a computer network that uses the Internet Protocol. This unique identifier allows devices to communicate with each other on the network.
+
+Types of IP Addresses:
+IPv4 (Internet Protocol version 4): The most common type of IP address, uses a 32-bit format.
+IPv6 (Internet Protocol version 6): A newer type of IP address that uses a 128-bit format.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+VPN (Virtual Private Network)
+
+A virtual private network is a secure network connection that connects a private network to a public network, such as the internet. It enables users to safely connect to remote networks, typically overcoming geographical constraints or censorship.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+DNS (Domain Name System)
+
+DNS is an Internet-based hierarchical distributed name system. It converts human-readable domain names (like [invalid URL deleted]) into machine-readable IP addresses (like 142.250.186.142). This translation is necessary for computers to speak with one another via the internet.
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+FRONTEND
+
+The frontend of a web application is the section that users interact with directly. It refers to the visual interface, which includes layout, design, and content. This is what you see when you browse a website or open a mobile app.
+
+Technologies commonly used for frontend development include:
+
+HTML (HyperText Markup Language): Defines the structure and content of a webpage.
+
+CSS (Cascading Style Sheets): Styles the appearance of HTML elements.
+
+JavaScript: Adds interactivity and dynamic behavior to webpages.
+
+Frontend Frameworks: React, Angular, Vue.js, etc., provide pre-built components and tools to streamline frontend development.
+
+
+BACKEND
+
+The backend of a web application is the server-side component that handles data storage, retrieval, processing, and business logic. It's responsible for communicating with databases, performing calculations, and managing user authentication. Common backend technologies include:
+
+Programming Languages: Python, Ruby, Java, Node.js, PHP, etc.
+
+Databases: MySQL, PostgreSQL, MongoDB, Oracle, etc.
+
+Frameworks: Django, Ruby on Rails, Spring Boot, Express.js, Laravel, etc.
+
+Cloud Platforms: AWS, Azure, GCP, etc.
+
+
+
+
+
+
+
+
 
 
