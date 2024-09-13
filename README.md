@@ -1,4 +1,4 @@
-                                                                  Computer Science
+                                                                  Computer Science 
 What is computer science?
 
 Computer scienceis the study of computers and computational systems. It encompasses the theory, design, development, and application of software and hardware. While computers are often at the center of the field, computer science is more about the underlying principles that make them work.   
